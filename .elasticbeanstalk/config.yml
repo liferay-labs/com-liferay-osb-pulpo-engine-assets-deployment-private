@@ -3,7 +3,7 @@ branch-defaults:
     environment: pulpo-engine-assets-dev
 global:
   application_name: pulpo-engine-assets
-  branch: null
+  branch: 7.0.x-private
   default_ec2_keyname: aws-eb
   default_platform: Multi-container Docker 1.12.6 (Generic)
   default_region: eu-west-1
@@ -14,3 +14,4 @@ global:
   repository: null
   sc: null
   workspace_type: Application
+"
