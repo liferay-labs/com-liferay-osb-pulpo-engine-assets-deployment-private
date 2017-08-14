@@ -1,7 +1,7 @@
 {
   "AWSEBDockerrunVersion": 2,
   "authentication": {
-    "bucket": "liferay-faro-docker-credentials-pulpo-engine-assets",
+    "bucket": "liferay-docker-credentials-pulpo-engine-assets",
     "key": "dockercfg"
   },
   "volumes": [
