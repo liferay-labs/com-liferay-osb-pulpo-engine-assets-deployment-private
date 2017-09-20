@@ -27,7 +27,7 @@
 	"containerDefinitions": [
 		{
 			"name": "pulpo-engine-assets",
-			"image": "liferay/com-liferay-osb-pulpo-engine-assets-private:20170915T091649Z",
+			"image": "liferay/com-liferay-osb-pulpo-engine-assets-private:20170920T072040Z",
 			"environment": [
 				{
 					"name": "PULPO_ASSET_ENGINE_ENVIRONMENT_UNIQUENAME",
